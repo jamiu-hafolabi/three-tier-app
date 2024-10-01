@@ -1,0 +1,8 @@
+Three-tier architecture is a software architecture pattern that separates an application into three layers.
+
+🔸Presentation layer ➡️ handles user interaction
+
+🔸Application layer(backend logic) ➡️ processes business logic and data processing
+
+🔸Data layer (database) ➡️ manages data storage and retrieval
+
